@@ -11,3 +11,4 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab
 ghcr.io/immich-app/immich-server:v1.115.0
 ghcr.io/immich-app/immich-machine-learning:v1.115.0
 tinymediamanager/tinymediamanager:latest
+cloudflare/cloudflared:latest
